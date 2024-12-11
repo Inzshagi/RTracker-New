@@ -1,4 +1,3 @@
-
 # RTracker - Task Management System
 
 RTracker is a task management software system designed to help users create, manage, and track their tasks efficiently. 
