@@ -29,11 +29,9 @@ Before setting up RTracker, ensure that the following are installed on your syst
 
 ### Steps to Set Up
 1. Get the repository link: `https://github.com/Inzshagi/RTracker-New.git`
-2. Open Visual Studio and create an empty folder where the project will be cloned.
-3. Use the **Git** menu in Visual Studio to clone the repository:
-   - Click on **Git** -> **Clone Repository**.
-   - Paste the repository link and select the empty folder you created as the destination.
-4. Once cloned, install the required dependencies via the **NuGet Package Manager Console**:
+2. Open Visual Studio and navigate to **Git > Clone Repository**.
+3. Paste the repository link and select a folder path (you can create a new folder here).
+4. Once cloned, check again if you already install the required dependencies via the **NuGet Package Manager Console**:
    - `BCrypt.Net-Next`
    - `System.Data.SQLite`
 5. Build and run the application by pressing **F5**.
